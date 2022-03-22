@@ -1,0 +1,54 @@
+#profil{
+	background-color: #494e5f;
+	margin-left: 3%;
+	width: 490px;
+	height: 130vh;
+	float: left;
+}
+.marge{
+	margin: 40px;
+}
+#profil p{
+    color: white;
+}
+h1{
+	text-transform: uppercase;
+	color: #ffe7d4;
+	font-size: 30px;
+	font-family: "Montserrat Classic", sans-serif;
+}
+.social{
+		text-transform: uppercase;
+	}
+hr{
+	height: 2px;
+	background-color: #ffe7d4;
+}
+#profil h2{
+	color: #ffe7d4;
+	text-transform: uppercase;
+}
+ul {
+    list-style: none;
+}
+a{
+	color: #ffe7d4;
+	text-decoration: none;
+}
+#section1{
+	grid-template-areas: section1;
+}
+#section2{
+	grid-template-areas: section2;
+}
+#prof{
+	background-color: #fefefa;
+	width: 830px;
+	height: 130vh;
+	float: right;
+	margin-right: 3%;
+}
+#prof h2{
+	background-color: #ffe7d4;
+	text-transform: uppercase;	
+}
